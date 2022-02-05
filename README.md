@@ -1,7 +1,6 @@
 # The Backend Weekend - ACM’s DBMS Workshop
 
-![image](https://user-images.githubusercontent.com/73131499/152648971-c14c73f5-eecd-43fb-961c-7b02ad4ff127.png)
-
+![image](https://user-images.githubusercontent.com/73131499/152649000-30af7a0d-4edc-41a3-95b2-0a4c4ddafeac.png)
 
 This is the repository which contains the code done during the 2 day workshop at ACM.
 
