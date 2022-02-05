@@ -1,4 +1,4 @@
-# Project Title
+# The Backend Weekend - ACM’s DBMS Workshop
 
 Simple overview of use/purpose.
 
