@@ -1,0 +1,14 @@
+show databases;
+create database Backend_weekend;
+use Backend_weekend;
+show tables;
+create table Student(Sap_id int(11), name char(25), roll_no int(5), phone_num int(10), address varchar(30));
+describe Student;
+insert into Student (Sap_id,name,roll_no,phone_num,address) values (1234567890, 'Saumya',34, 1123456789, 'ABC');
+insert into Student (Sap_id,name,roll_no,phone_num,address) values (1434567890, 'James',37, 1123456789, 'QWE');
+select * from Student;
+insert into Student (Sap_id,name,roll_no,phone_num,address) values (133456789, 'Harshee',36, 1123456789, 'CBA');
+select name from Student;
+alter table Student modify Sap_id varchar(50) primary key;
+truncate table Student;
+update Student set address = "PQR" where roll_no = 34;
