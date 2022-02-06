@@ -23,3 +23,5 @@ There will be 2 files namely Day 1 and Day 2 which will contain the SQL text fil
 * Go to the File tab
 * Click on open SQL script and choose the scripts you just downloaded
 * Execute the queries
+
+Thank you for attending!
